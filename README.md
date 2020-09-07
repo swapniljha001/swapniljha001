@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-<p>I am Swapnil Jha, a 20-year-old, third-year engineering student from New Delhi, India.</p> 
-<img src="https://github-readme-stats.vercel.app/api?username=swapniljha001&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true" align=”right”/>
-<BR CLEAR=”left” /> 
+I am Swapnil Jha, a 20-year-old, third-year engineering student from New Delhi, India.
 
-<p>I have considerable experience in Content Writing and Editing. And I am very interested in Machine Learning and its applications and advancements. I am equipped with the knowledge of C, C++, Python, Java, and basics of Machine Learning and am fluent in languages such as English, Hindi, Maithili, and a little bit of Sanskrit as well.</p>
+I have considerable experience in Content Writing and Editing. And I am very interested in Machine Learning and its applications and advancements. I am equipped with the knowledge of C, C++, Python, Java, and basics of Machine Learning and am fluent in languages such as English, Hindi, Maithili, and a little bit of Sanskrit as well.</p>
 
 ### Here are some important link/information about me -
 
