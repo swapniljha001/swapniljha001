@@ -23,8 +23,6 @@ I have considerable experience in Content Writing and Editing. And I am very int
 ### Here are some important link/information about me -
 
 * Resume - [Swapnil Jha Resume 2020](https://sunny.techglobule.com/wp-content/uploads/2016/03/Resume-Swapnil-2020.0.pdf)
-* LinkedIn - https://www.linkedin.com/in/swapniljha001/
-* Github - https://github.com/swapniljha001
 * PyPI - https://pypi.org/user/swapniljha/
 * EMail - swapniljha001(at)gmail.com; swapnil(at)techglobule.com
 * Telegram - https://t.me/that_person (This direct chat link might not work in a few countries.)
