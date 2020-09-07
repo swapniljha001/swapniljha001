@@ -39,7 +39,7 @@ I have considerable experience in Content Writing and Editing. And I am very int
  Swapnil Jha
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=swapniljha001&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true" align=”right” hspace=”50” vspace=”50”/>
+<img src="https://github-readme-stats.vercel.app/api?username=swapniljha001&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true"/>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapniljha001"/>
 </p>
