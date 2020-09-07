@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I am Swapnil Jha, a 20-year-old, third-year engineering student from New Delhi, India.
+<p>I am Swapnil Jha, a 20-year-old, third-year engineering student from New Delhi, India.</p> 
+<img src="https://github-readme-stats.vercel.app/api?username=swapniljha001&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true" align=”right”/>
+<BR CLEAR=”left” /> 
 
-I have considerable experience in Content Writing and Editing. And I am very interested in Machine Learning and its applications and advancements. I am equipped with the knowledge of C, C++, Python, Java, and basics of Machine Learning and am fluent in languages such as English, Hindi, Maithili, and a little bit of Sanskrit as well.
-Links
+<p>I have considerable experience in Content Writing and Editing. And I am very interested in Machine Learning and its applications and advancements. I am equipped with the knowledge of C, C++, Python, Java, and basics of Machine Learning and am fluent in languages such as English, Hindi, Maithili, and a little bit of Sanskrit as well.</p>
 
 ### Here are some important link/information about me -
 
@@ -38,3 +39,9 @@ Links
 
 ### Regards,
  Swapnil Jha
+ 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=swapniljha001&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true" align=”right” hspace=”50” vspace=”50”/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapniljha001"/>
+</p>
