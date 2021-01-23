@@ -22,10 +22,10 @@ I have considerable experience in Content Writing and Editing. And I am very int
 
 ### Here are some important link/information about me -
 
-* Resume - [Swapnil Jha Resume 2020](https://sunny.techglobule.com/wp-content/uploads/2016/03/Resume-Swapnil-2020.0.pdf)
+* Resume - [Swapnil Jha Resume 2020](https://sunny.techglobule.com/wp-content/uploads/2021/01/Resume-Swapnil-Jha-v21.01.12.pdf)
 * PyPI - https://pypi.org/user/swapniljha/
 * EMail - swapniljha001(at)gmail.com; swapnil(at)techglobule.com
-* Telegram - https://t.me/that_person (This direct chat link might not work in a few countries.)
+* Telegram - https://t.me/sunnyassassin7 (This direct chat link might not work in a few countries.)
 
 ### Fun Facts -
 * I am eager to learn about ML, if you need an apprentice / assitant / friend in your ML Project, please contact me, I would love to learn and be of help.
