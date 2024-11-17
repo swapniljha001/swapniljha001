@@ -16,19 +16,27 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I am Swapnil Jha, a 23-year-old, Engineering graduate from Maharaja Surajmal Institute of Technology, New Delhi, India.
+I am Swapnil Jha, a 25-year-old, Master's student at the Universität Potsdam, Germany in Cognitive Systems. Along with ~3 years of work experience, I have:
 
-I have considerable knowledge in the Decision Analytics field. And I am enthralled by Machine Learning and its applications and advancements. I am equipped with the knowledge of Python and SQL and the core concepts of Machine Learning and am fluent in languages such as English, Hindi, Maithili, and a little bit of German as well.
+• Proven expertise in data standardization & automation, improving operational efficiency in reinsurance and pharmaceutical analytics.
+• Diverse experience across industries, including reinsurance, pharmaceuticals, environmental mapping, & data visualization.
+• Strong technical skills in Python, machine learning, & cloud platforms, with certifications from Microsoft, AWS, and Udacity.
+• Effective communicator and problem-solver, delivering data-driven insights and leading projects with professionalism and efficiency.
+
+
+<!-- I have considerable knowledge in the Decision Analytics field. And I am enthralled by Machine Learning and its applications and advancements. I am equipped with the knowledge of Python and SQL and the core concepts of Machine Learning and am fluent in languages such as English, Hindi, Maithili, and a little bit of German as well.-->
 
 ### Here are some important link/information about me -
 
-* Resume - [Swapnil Jha Resume 2023](https://sunny.techglobule.com/wp-content/uploads/2023/01/Resume-Swapnil-Jha-23.01.07.pdf)
+* Resume - [Swapnil Jha Resume (Nov'24)](https://github.com/swapniljha001/swapniljha001/blob/master/Resume-Swapnil-Jha-24.11.17.pdf)
+
+  
 * PyPI - https://pypi.org/user/swapniljha/
 * EMail - swapniljha001(at)gmail.com; swapniljha(at)hotmail.com
-* Telegram - https://t.me/sunnyassassin (This direct chat link might not work in a few countries.)
+* Telegram - [t.me/sunnyassassin](https://t.me/sunnysherlock) (This direct chat link might not work in a few countries.)
 
 ### Fun Facts -
-* I am a professional Decision Analytics Associate.
+* I am a professional Data Scientist at SCOR Reinsurance.
 * I like playing Chess.
 * Ich lerne gerade Deutsch.
 
