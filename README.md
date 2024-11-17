@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I am Swapnil Jha, a 25-year-old, Master's student at the Universität Potsdam, Germany in Cognitive Systems. Along with ~3 years of work experience, I have:
+I’m Swapnil Jha, a Master's student in Cognitive Systems at Universität Potsdam, Germany, with **~3 years of work experience**. I have:
 
-• Proven expertise in data standardization & automation, improving operational efficiency in reinsurance and pharmaceutical analytics.
-• Diverse experience across industries, including reinsurance, pharmaceuticals, environmental mapping, & data visualization.
-• Strong technical skills in Python, machine learning, & cloud platforms, with certifications from Microsoft, AWS, and Udacity.
-• Effective communicator and problem-solver, delivering data-driven insights and leading projects with professionalism and efficiency.
+* **Proven expertise in data standardization & automation**, improving operational efficiency in reinsurance and pharmaceutical analytics.
+* **Diverse experience across industries**, including reinsurance, pharmaceuticals, environmental mapping, & data visualization.
+* **Strong technical skills in Python, machine learning, & cloud platforms**, with certifications from Microsoft, AWS, and Udacity.
+* **Effective communicator and problem-solver**, delivering data-driven insights and leading projects with professionalism and efficiency.
 
 
 <!-- I have considerable knowledge in the Decision Analytics field. And I am enthralled by Machine Learning and its applications and advancements. I am equipped with the knowledge of Python and SQL and the core concepts of Machine Learning and am fluent in languages such as English, Hindi, Maithili, and a little bit of German as well.-->
@@ -30,7 +30,7 @@ I am Swapnil Jha, a 25-year-old, Master's student at the Universität Potsdam, G
 
 * Resume - [Swapnil Jha Resume (Nov'24)](https://github.com/swapniljha001/swapniljha001/blob/master/Resume-Swapnil-Jha-24.11.17.pdf)
 
-  
+* LinkedIn - [swapniljha001](https://www.linkedin.com/in/swapniljha001/)  
 * PyPI - https://pypi.org/user/swapniljha/
 * EMail - swapniljha001(at)gmail.com; swapniljha(at)hotmail.com
 * Telegram - [t.me/sunnyassassin](https://t.me/sunnysherlock) (This direct chat link might not work in a few countries.)
