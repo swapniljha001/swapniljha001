@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I’m Swapnil Jha, a Master's student in Cognitive Systems at Universität Potsdam, Germany. Along with **~3 years of work experience**, I have:
+I’m Swapnil Jha, a Master's student in Cognitive Systems at Universität Potsdam, Germany. Along with **several years of work experience**, I have:
 
 * **Proven expertise in data standardization & automation**, improving operational efficiency in reinsurance and pharmaceutical analytics.
 * **Diverse experience across industries**, including reinsurance, pharmaceuticals, environmental mapping, & data visualization.
